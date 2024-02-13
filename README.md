@@ -16,7 +16,7 @@
 npm instal
 npm run dev
 ```
-# Observacles:
+# Observables:
 
  In backend folder, create file ```.env``` and add:
 ```
