@@ -1,6 +1,9 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/ErikPatrik/frontend
+	url = https://github.com/ErikPatrik/frontend-devcustomers
 [submodule "prisma-fastify-typescript"]
 	path = prisma-fastify-typescript
 	url = https://github.com/ErikPatrik/prisma-fastify-typescript
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ErikPatrik/backend-devcustomers
