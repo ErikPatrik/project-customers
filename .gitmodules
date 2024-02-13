@@ -7,3 +7,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/ErikPatrik/backend-devcustomers
+[submodule "frontend-devcustomers"]
+	path = frontend-devcustomers
+	url = https://github.com/ErikPatrik/frontend-devcustomers
