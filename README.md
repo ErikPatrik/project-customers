@@ -19,7 +19,8 @@ npm run dev
 # Observacles:
 
  In backend folder, create file ```.env``` and add:
- ```DATABASE_URL="mongodb+srv://<user>:<password>@<cluster>/<cluster>?retryWrites=true&w=majority"
+```
+DATABASE_URL="mongodb+srv://<user>:<password>@<cluster>/<cluster>?retryWrites=true&w=majority"
 ```
 For more information: (https://www.mongodb.com/docs/atlas/driver-connection/)
 
